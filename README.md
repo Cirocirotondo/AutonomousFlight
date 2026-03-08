@@ -1,6 +1,5 @@
 # 🚀 Autonomous Flight - Main Repository
 
-
 ## 🛠️ Setup Instructions
 
 ### 1. Install ROS 2 and PX4
@@ -10,12 +9,10 @@ Follow the official PX4-ROS2 integration guide here:
 
 ---
 
-## 📥 Clone This Repository (With Submodules)
-
-To properly set up the project including all submodules, **clone it recursively**:
+## 📥 Clone This Repository
 
 ```bash
-git clone --recurse-submodules https://github.com/ivanbrillo/AutonomousFlight.git
+git clone https://github.com/Cirocirotondo/AutonomousFlight.git
 ```
 
 ---
@@ -27,3 +24,4 @@ git clone --recurse-submodules https://github.com/ivanbrillo/AutonomousFlight.gi
 
 ```bash
 ./launch_all.sh
+```
