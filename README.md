@@ -26,4 +26,4 @@ git clone https://github.com/Cirocirotondo/AutonomousFlight.git
 ./launch_all.sh
 ```
 # Cancellini Puppa!
-# Sabaku mangiapatate
+E Sabaku è un mangiapatate
